@@ -81,6 +81,7 @@ The architecture is designed to be **scalable, modular, and cost-effective**, ma
 
 ### 🎓 Supervisor
 - **Anuj Khanal**
+- +977-9865206191
 
 ---
 
