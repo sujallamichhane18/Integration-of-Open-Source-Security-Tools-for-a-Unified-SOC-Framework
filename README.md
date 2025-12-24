@@ -106,5 +106,5 @@ This project is for **educational and research purposes only**. Do not deploy in
 
 ## ⭐ Acknowledgment
 
-Special thanks to our supervisor **Anuj Khnal** for guidance and support throughout the project.
+Special thanks to our supervisor **Anuj Khanal** for guidance and support throughout the project.
 
