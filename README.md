@@ -71,10 +71,11 @@ The architecture is designed to be **scalable, modular, and cost-effective**, ma
 ## 👥 Project Team
 
 - **Rupesh Mahato**  
-- **Ujjwal Kandel**  
+- **Ujjwal Kandel**
+- **Sujal Lamichhane**  
 
 ### 🎓 Supervisor
-- **Anuj Khnal**
+- **Anuj Khanal**
 
 ---
 
@@ -84,5 +85,26 @@ The architecture is designed to be **scalable, modular, and cost-effective**, ma
 
 ---
 
-## 📂 Repository Structure (Suggested)
+
+---
+
+## 📘 Use Case
+
+This project can be used for:
+- Academic major projects  
+- SOC learning labs  
+- Blue team practice  
+- Open-source security research  
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for **educational and research purposes only**. Do not deploy in production without proper security hardening and testing.
+
+---
+
+## ⭐ Acknowledgment
+
+Special thanks to our supervisor **Anuj Khnal** for guidance and support throughout the project.
 
