@@ -45,6 +45,11 @@ The architecture is designed to be **scalable, modular, and cost-effective**, ma
 - Centralized logging
 - **Discord** for real-time alert notifications  
 
+### 🚫 Automated Response
+- If **severity > 7** and confidence is high:
+  - The source IP is **automatically blocked in pfSense**
+- Prevents repeated attack attempts without manual intervention
+
 ---
 
 ## 🔄 Data Flow Summary
