@@ -224,7 +224,7 @@ This logic executes entirely within the Shuffle workflow — no human action is 
 
 ## 🚀 Setup & Deployment
 
-> 📁 Full step-by-step installation guides with screenshots are available in [`docs/setup/`](docs/setup/)
+> 📁 Full step-by-step installation guides with screenshots are available in final-defense (7th sem).docx
 
 ### Prerequisites
 
