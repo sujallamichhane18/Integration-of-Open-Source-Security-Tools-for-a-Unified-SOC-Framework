@@ -188,7 +188,6 @@ Shuffle is the orchestration layer that ties every component together. The prima
 | **9** | *(High confidence)* Create enriched case in TheHive | TheHive API |
 | **10** | Send formatted Discord notification to analyst | Discord Webhook |
 
-> 📁 Shuffle workflow JSON export and execution screenshots → [`docs/shuffle/`](docs/shuffle/)
 
 ---
 
