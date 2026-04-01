@@ -26,11 +26,6 @@ This project implements a **fully integrated, open-source Security Operations Ce
 
 The framework is modular and cost-effective, making it suitable for academic labs, SOC analyst training, blue team exercises, and small-to-medium enterprise environments.
 
-<div align="center">
-<img src="docs/assets/soc-demo.gif" alt="SOC Dashboard Demo" width="85%" style="border-radius: 8px; border: 1px solid #30363d;"/>
-<br/>
-<sub>↑ Replace with a screen recording of your dashboard in action (save as docs/assets/soc-demo.gif)</sub>
-</div>
 
 ---
 
@@ -45,7 +40,7 @@ The framework is modular and cost-effective, making it suitable for academic lab
 ```
  ┌─────────────────────────────────────────────────────────────────────┐
  │                        NETWORK PERIMETER                            │
- │   [ pfSense Firewall ]  ──►  [ Suricata IDS/IPS ]                  │
+ │   [ pfSense Firewall ]  ──►  [ Suricata IDS/IPS ]                   │
  └──────────────────────────────────┬──────────────────────────────────┘
                                     │ Logs & Alerts
                                     ▼
@@ -58,13 +53,13 @@ The framework is modular and cost-effective, making it suitable for academic lab
               ▼
  ┌─────────────────────────────────────────────────────────────────────┐
  │                     THREAT INTELLIGENCE                             │
- │   [ VirusTotal ]  [ MISP ]  [ AbuseIPDB ]  [ AlienVault OTX ]      │
+ │   [ VirusTotal ]  [ MISP ]  [ AbuseIPDB ]  [ AlienVault OTX ]       │
  └────────────┬────────────────────────────────────────────────────────┘
               │ Enriched Alert
               ▼
  ┌─────────────────────────────────────────────────────────────────────┐
  │                        SOAR ENGINE                                  │
- │         severity > 7 + high confidence  ──►  Auto-block IP         │
+ │         severity > 7 + high confidence  ──►  Auto-block IP          │
  └──────┬──────────────────────────────────────────────────────┬───────┘
         │                                                      │
         ▼                                                      ▼
@@ -112,31 +107,7 @@ if alert.severity > 7 and alert.ti_confidence == "high":
     thehive.create_case(alert)
     discord.notify(alert)
 ```
-
----
-
-## Quickstart
-
-> **Prerequisites:** Docker, Docker Compose, access to pfSense admin panel
-
-```bash
-# Clone the repository
-git clone https://github.com/your-org/unified-soc-framework.git
-cd unified-soc-framework
-
-# Copy and configure environment variables
-cp .env.example .env
-
-# Start the core stack
-docker-compose up -d wazuh thehive cortex misp
-
-# Verify services are running
-docker-compose ps
-```
-
-Detailed setup guides for each component are in [`/docs`](./docs).
-
----
+ 
 
 ## Screenshots
 
