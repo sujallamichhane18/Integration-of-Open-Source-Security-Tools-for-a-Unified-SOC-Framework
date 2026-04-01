@@ -260,11 +260,6 @@ This logic executes entirely within the Shuffle workflow — no human action is 
 
 ## 👥 Project Team
 
-<div align="center">
-
-**Forbes College, Chitwan, Nepal**
-*Affiliated with University of Computer Science and Skills, Łódź, Poland*
-*B.Sc. Computer Science — Cybersecurity & Networking Specialization*
 
 <br/>
 
