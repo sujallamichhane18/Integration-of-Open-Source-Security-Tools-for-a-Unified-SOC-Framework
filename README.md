@@ -238,7 +238,7 @@ This logic executes entirely within the Shuffle workflow — no human action is 
 ### Lab Network Topology
 
 ```
-[Internet] ──► [pfSense WAN] ──► [pfSense LAN] ──► [Lab: 192.168.x.x/24]
+[Internet] ──► [pfSense WAN] ──► [pfSense LAN] ──► [Lab: 192.168.10.0/24]
                                         │
                ┌────────────┬──────────┼───────────┬──────────────┐
                │            │          │           │              │
