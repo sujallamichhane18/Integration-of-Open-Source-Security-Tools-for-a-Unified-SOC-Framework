@@ -28,7 +28,7 @@
 
 **Programme:** Bachelor of Computer Science (B.Sc. CS)
 **Specialization:** Cybersecurity & Networking
-**Project Type:** Final Year Major Project — 7th Semester Defense
+**Project Type:** Final Year Major Project 
 
 ---
 
