@@ -23,7 +23,7 @@
 
 ### 🎓 Academic Affiliation
 
-**Forbes College, Kathmandu, Nepal**
+**Forbes College, Chitwan, Nepal**
 *Affiliated with University of Computer Science and Skills, Łódź, Poland*
 
 **Programme:** Bachelor of Computer Science (B.Sc. CS)
