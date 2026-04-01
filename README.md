@@ -109,34 +109,6 @@ if alert.severity > 7 and alert.ti_confidence == "high":
 ```
  
 
-## Screenshots
-
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <img src="docs/assets/wazuh-dashboard.png" width="380px" alt="Wazuh Dashboard"/><br/>
-      <sub>Wazuh SIEM Dashboard</sub>
-    </td>
-    <td align="center">
-      <img src="docs/assets/thehive-case.png" width="380px" alt="TheHive Case"/><br/>
-      <sub>TheHive Incident Case</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="docs/assets/discord-alert.png" width="380px" alt="Discord Alert"/><br/>
-      <sub>Discord Alert Notification</sub>
-    </td>
-    <td align="center">
-      <img src="docs/assets/pfsense-block.png" width="380px" alt="pfSense Block"/><br/>
-      <sub>Automated IP Block in pfSense</sub>
-    </td>
-  </tr>
-</table>
-<sub>↑ Add your own screenshots to docs/assets/ and update the paths above</sub>
-</div>
-
 ---
 
 ## Use Cases
