@@ -289,6 +289,6 @@ This logic executes entirely within the Shuffle workflow — no human action is 
 
 🏫 Forbes College, Chitwan, Nepal &nbsp;·&nbsp; 🌍 University of Computer Science and Skills, Łódź, Poland
 
-*B.Sc. Computer Science · Cybersecurity & Networking · Final Year Major Project · 2024–2025*
+*B.Sc. Computer Science · Cybersecurity & Networking · Final Year Major Project · 2026*
 
 </div>
